@@ -53,20 +53,20 @@
 //   if (i%2==0) console.log(i);
 //  }
 
-let result;
-
-do{
-  result=prompt('Задайте число больше 100');
-  console.log(result);
-  if (result!==null){
-    if (result<100 || result ===''){
-      alert ('Ты дурак?');
-  }else{
-    alert('Спасибо');
-    break;
-  }
-  }
-} while(result!==null);
+//let result;
+//
+//do{
+//  result=prompt('Задайте число больше 100');
+//  console.log(result);
+//  if (result!==null){
+//    if (result<100 || result ===''){
+//      alert ('Ты дурак?');
+//  }else{
+//    alert('Спасибо');
+//    break;
+//  }
+//  }
+//} while(result!==null);
     
   
   
